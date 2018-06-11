@@ -1,4 +1,10 @@
-#Prerequisite
+# Ansible Playbooks
+This repository is for exploring and storing ansible playbooks.
+
+My playlist:
+1.Install-nginx
+
+# Prerequisite
 Before you begin this guide you'll need the following:
 
 - Servers or virtual machines with Ubuntu
